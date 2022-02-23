@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../.gradle/caches/transforms-3/c18f85807e14bcd01bb8e8f6d29c1fc3/transformed/appcompat-1.3.1/res/layout/support_simple_spinner_dropdown_item.xml" value="0.3640625" />
+        <entry key="app/src/main/res/layout/activity_demo.xml" value="0.23958333333333334" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1770516717325228" />
+        <entry key="demo/src/main/res/layout/activity_demo.xml" value="0.35" />
+        <entry key="demo/src/main/res/layout/activity_demo_simple.xml" value="0.2857789855072464" />
+        <entry key="iui/src/main/res/drawable/bg_dialog_simple_loading.xml" value="0.3802083333333333" />
+        <entry key="iui/src/main/res/drawable/bg_toast.xml" value="0.3802083333333333" />
+        <entry key="iui/src/main/res/layout/activity_base.xml" value="0.3640625" />
+        <entry key="iui/src/main/res/layout/common_data.xml" value="0.358695652173913" />
+        <entry key="iui/src/main/res/layout/dialog_simple_loading.xml" value="0.3640625" />
+        <entry key="iui/src/main/res/layout/view_toast.xml" value="0.3640625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

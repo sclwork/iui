@@ -1,0 +1,7 @@
+def build_version = [:]
+build_version.min_sdk = 29
+build_version.target_sdk = 30
+build_version.compile_sdk = 30
+build_version.version_code = 100
+build_version.version_name = "1.0.0"
+ext.build_version = build_version

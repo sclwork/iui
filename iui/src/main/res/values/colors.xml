@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#ffeeeeee</color>
+    <color name="colorPrimary">#ff202124</color>
+    <color name="colorOnPrimary">#ffeeeeee</color>
+    <color name="colorPrimaryVariant">#ff202124</color>
+    <color name="colorStatusBarColor">#ff35363a</color>
+    <color name="colorWindowBackground">#ff35363a</color>
+</resources>
